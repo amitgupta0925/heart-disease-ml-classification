@@ -1,0 +1,31 @@
+{
+  "total_records": 920,
+  "number_of_predictors": 13,
+  "train_records": 736,
+  "test_records": 184,
+  "target_distribution": {
+    "0": 411,
+    "1": 509
+  },
+  "random_state": 42,
+  "test_size": 0.2,
+  "features": [
+    "age",
+    "trestbps",
+    "chol",
+    "thalach",
+    "oldpeak",
+    "sex",
+    "cp",
+    "fbs",
+    "restecg",
+    "exang",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "excluded_from_model": [
+    "source",
+    "num"
+  ]
+}
