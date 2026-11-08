@@ -1,0 +1,1 @@
+If automatic downloading is unavailable, place the four processed UCI files in this folder. See README.md for filenames and source.
